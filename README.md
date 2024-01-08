@@ -8,8 +8,13 @@ Ce projet consiste en la création d'un système de surveillance avancé utilisa
   Interface utilisateur graphique : Affichage des informations et des images capturées via une interface utilisateur graphique intuitive.
 
 2.Technologies utilisées: 
+
     Python : Langage de programmation principal.
+    
     OpenCV : Bibliothèque pour le traitement d'images et de vidéos.
+    
     Face Recognition : Bibliothèque de reconnaissance faciale pour Python.
+    
     Firebase : Base de données en ligne pour stocker les visages inconnus.
+    
     SQLite3 : Base de données locale pour les visages connus.
