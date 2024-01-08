@@ -1,4 +1,5 @@
 # Syteme_de_surveillance
+
 Ce projet consiste en la création d'un système de surveillance avancé utilisant la reconnaissance faciale. Le système est conçu pour identifier les visages connus et inconnus en temps réel, en utilisant une combinaison de Python, OpenCV, et Face Recognition.
 
 1. Fonctionnalités:
