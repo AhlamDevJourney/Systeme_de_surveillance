@@ -6,6 +6,7 @@ Ce projet consiste en la création d'un système de surveillance avancé utilisa
   Stockage des données : Utilisation de SQLite3 pour stocker les informations des visages connus et des Firebase pour les visages inconnus.
   Mise à jour en temps réel : Les visages capturés par la caméra sont analysés en temps réel, avec une mise à jour instantanée des bases de données.
   Interface utilisateur graphique : Affichage des informations et des images capturées via une interface utilisateur graphique intuitive.
+
 2.Technologies utilisées: 
     Python : Langage de programmation principal.
     OpenCV : Bibliothèque pour le traitement d'images et de vidéos.
